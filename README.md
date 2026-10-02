@@ -66,7 +66,9 @@ Press `Ctrl+C` in the terminal to stop the server.
 | `figures/` | Images from the original case-study brief |
 | `Report Documents/` | Brainstorming notes, Gantt chart, class diagram and the original case-study brief |
 
-## Credits
+## Author and Credits
 
+- **Author:** Ayesha Atif
+- **Coursework:** Introduction to Programming 2 (MY0469 / CM1010) – Final Submission
 - Case-study template: Goldsmiths, University of London, Introduction to Programming.
-- Built with [p5.js](https://p5js.org/) and [p5.sound](https://p5js.org/reference/#/libraries/p5.sound).
+- Built with [p5.js](https://p5js.org/) and [p5.sound](https://p5js.org/reference/#/libraries/p5.sound)
