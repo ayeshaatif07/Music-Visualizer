@@ -1,4 +1,4 @@
-# Music Visualiser
+# Music Visualizer
 
 A music visualiser built with [p5.js](https://p5js.org/) and p5.sound for the Introduction to Programming 2 final submission (MY0469 / CM1010). It plays a track in the browser and draws eight different visualisations that react to the music in real time.
 
@@ -38,8 +38,8 @@ Each visualisation is its own file and exposes a `draw()` function. A small cont
 The audio file is loaded at startup, so serve the project from a local web server. You need Python 3 installed.
 
 ```bash
-git clone https://github.com/ayeshaatif07/MY0469-CM1010-ITP2-Final-Submission.git
-cd MY0469-CM1010-ITP2-Final-Submission
+git clone https://github.com/ayeshaatif07/Music-Visualizer.git
+cd Music-Visualizer
 python3 -m http.server 8000
 ```
 
